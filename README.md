@@ -2,7 +2,7 @@
 
 ## 👤 Basic Info
 - **Name:** Darwisy bin Damanhuri
-- **Role:**  Student 
+- **Role:** 1st Year Data Engineering Student 
 - **Location:** Malaysia
 
 ## 💬 Communication & Interaction Style

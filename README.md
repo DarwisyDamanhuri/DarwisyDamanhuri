@@ -1,4 +1,4 @@
-# Personal Profile: Darwisy bin Damanhuri
+# Hi! I am Darwisy
 
 ## 👤 Basic Info
 - **Name:** Darwisy bin Damanhuri

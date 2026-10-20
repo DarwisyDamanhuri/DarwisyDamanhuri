@@ -1,16 +1,23 @@
-## Hi there 👋
+# Personal Profile: Darwisy bin Damanhuri
 
-<!--
-**DarwisyDamanhuri/DarwisyDamanhuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 Basic Info
+- **Name:** Darwisy bin Damanhuri
+- **Role / Domain:** [e.g., Software Developer / Student / Data Analyst]
+- **Location:** [e.g., Malaysia]
 
-Here are some ideas to get you started:
+## 💬 Communication & Interaction Style
+- **Tone:** Direct, concise, and pragmatic.
+- **Format:** Prefer clean Markdown formatting with clear headings and code blocks where applicable.
+- **Detail Level:** Give straightforward answers first, then dive into deeper technical details if needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Key Tools
+- **Languages:** [e.g., Python, JavaScript, SQL]
+- **Frameworks / Tools:** [e.g., React, Node.js, Git]
+- **OS / Environment:** [e.g., Linux / macOS / Windows]
+
+## 🎯 Current Focus & Goals
+- [e.g., Building personal projects, learning AI development, expanding backend skills]
+
+## 🚫 Constraints & Preferences
+- Avoid unnecessary fluff or conversational preambles.
+- Prefer actionable code snippets and practical solutions over purely theoretical explanations.

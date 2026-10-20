@@ -2,8 +2,8 @@
 
 ## 👤 Basic Info
 - **Name:** Darwisy bin Damanhuri
-- **Role / Domain:** [e.g., Software Developer / Student / Data Analyst]
-- **Location:** [e.g., Malaysia]
+- **Role:**  Student 
+- **Location:** Malaysia
 
 ## 💬 Communication & Interaction Style
 - **Tone:** Direct, concise, and pragmatic.

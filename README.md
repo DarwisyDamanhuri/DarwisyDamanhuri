@@ -11,8 +11,7 @@
 - **Detail Level:** Give straightforward answers first, then dive into deeper technical details if needed.
 
 ## 🛠️ Tech Stack & Key Tools
-- **Languages:** 1. Python
-                 2. C++
+- **Languages:** Python, C++
 - **Frameworks / Tools:** GitHub
 - **OS:** Windows
 
